@@ -111,3 +111,8 @@ body {
   opacity: 0.8;
 }
 
+.decimal:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}
+
